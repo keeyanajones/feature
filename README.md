@@ -1,4 +1,4 @@
-# discord-feature
+# feature
 Discord Feature
 IN DEVELOPMENT
 VERSION 1.0.1
